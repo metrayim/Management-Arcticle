@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ControlManagement.iml" filepath="$PROJECT_DIR$/.idea/ControlManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControlManagement/demo.iml" filepath="$PROJECT_DIR$/ControlManagement/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlManagement/demo.iml" filepath="$PROJECT_DIR$/ControlManagement/demo.iml" />
     </modules>
   </component>
 </project>
